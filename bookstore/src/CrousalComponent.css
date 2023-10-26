@@ -1,0 +1,45 @@
+.crousal{
+    height:30%;
+    width: 100%;
+    
+    position: absolute;
+    margin-top: 2%;
+    background-color: rgb(255, 228, 225) ;
+}
+h3{
+    margin-top: 2%;
+}
+#p{
+    height: 10%;
+    width:40%;
+    background-color:white;
+   
+    font-size: 18px;
+    border-radius: 3px;
+    border: 0;
+    margin-left: 10%;
+    border-color: white;
+    margin-right: 20%;
+  }
+#q{
+      height: 10%;
+    width:40%;
+    background-color:white;
+    font-size: 18px;
+    margin-left: 12%;
+    margin-right: 12%;
+    border-radius: 3px;
+    border: 0;
+    border-color: white;
+  }
+#r{
+    height: 10%;
+  width:40%;
+  background-color:white;
+  font-size: 18px;
+  margin-left: 20%;
+  margin-right: 5%;
+  border-radius: 3px;
+  border: 0;
+  border-color: white;
+}
